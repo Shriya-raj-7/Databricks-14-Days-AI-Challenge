@@ -38,7 +38,7 @@
 ![Silver Layer](day6_Silver_Cleaned_and_Validated_Data.png)
 
 **Gold – Business Aggregates**  
-![Gold Layer](day3_Gold_Business_Aggregates.png)
+![Gold Layer](day6_Gold_Business_Aggregates.png)
 
 ---
 
