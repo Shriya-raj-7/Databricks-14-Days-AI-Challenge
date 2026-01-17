@@ -30,17 +30,18 @@
 
 ### Output Screenshots
 
-**Revenue Trend with 7-Day Moving Average**
-(day9_Revenue_Trend_MA7.png)
+**Revenue Trend with 7-Day Moving Average**  
+![Revenue Trend MA7](day9_Revenue_Trend_MA7.png)
 
-**Top Products Analysis**
-(day_9_Top_Product.png)
+**Top Products Analysis**  
+![Top Products](day_9_Top_Product.png)
 
-**Conversion Funnel by Category**
-(day_9_Conversion_Funnel.png)
+**Conversion Funnel by Category**  
+![Conversion Funnel](day_9_Conversion_Funnel.png)
 
-**Customer Tier Segmentation**
-(day_9_Customer_Tiers.png)
+**Customer Tier Segmentation**  
+![Customer Tiers](day_9_Customer_Tiers.png)
+
 
 ---
 
